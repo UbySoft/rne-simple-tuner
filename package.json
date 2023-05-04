@@ -1,0 +1,33 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.21.5",
+    "@expo/vector-icons": "^13.0.0",
+    "axios": "*",
+    "base-64": "*",
+    "base64-js": "*",
+    "expo": "~47.0.14",
+    "expo-av": "~13.0.3",
+    "expo-constants": "~14.0.2",
+    "expo-file-system": "~15.1.1",
+    "expo-status-bar": "~1.4.2",
+    "react": "18.1.0",
+    "react-native": "0.70.8",
+    "react-native-audio": "*",
+    "react-native-audio-toolkit": "*",
+    "react-native-ffmpeg": "^0.5.2",
+    "react-native-paper": "4.9.2",
+    "react-native-vector-icons": "*",
+    "rn-fetch-blob": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
